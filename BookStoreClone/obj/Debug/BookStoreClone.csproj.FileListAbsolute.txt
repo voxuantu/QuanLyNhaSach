@@ -1,0 +1,158 @@
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\QLNS.mdf
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\QLNS_log.ldf
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\BookStoreClone.exe
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\BookStoreClone.pdb
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\EntityFramework.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\LiveCharts.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\EntityFramework.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\LiveCharts.pdb
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\LiveCharts.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.csproj.AssemblyReference.cache
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\SachUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\App.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\App.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\Resources\MainResource.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\LoginWindow.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\MainWindow.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\SachUC.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\XamlC.stamp
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.exe
+C:\Users\voxua\OneDrive\Desktop\New folder (7)\BookStoreClone\obj\Debug\BookStoreClone.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\QLNS.mdf
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\QLNS_log.ldf
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\BookStoreClone.exe
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\BookStoreClone.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\EntityFramework.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\LiveCharts.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\EntityFramework.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\LiveCharts.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\LiveCharts.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.csproj.AssemblyReference.cache
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\SachUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\App.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\App.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\Resources\MainResource.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\LoginWindow.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\MainWindow.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\SachUC.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\XamlC.stamp
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.exe
+C:\Users\voxua\OneDrive\Desktop\kiểm chứng\BookStoreClone\obj\Debug\BookStoreClone.pdb
